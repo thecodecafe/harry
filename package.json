@@ -1,0 +1,23 @@
+{
+  "name": "harry",
+  "version": "1.0.0",
+  "description": "Harry books coding test.",
+  "main": "src/index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thecodecafe/harry"
+  },
+  "author": "Daniel Barde",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  },
+  "bugs": {
+    "url": "https://github.com/thecodecafe/harry/issues"
+  },
+  "homepage": "https://github.com/thecodecafe/harry#readme",
+  "dependencies": {},
+  "scripts": {
+    "test": "jest"
+  }
+}
